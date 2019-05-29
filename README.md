@@ -9,7 +9,7 @@ as required for the first weeks assessment.
 The "Segmenting & Clustering Neighborhoods in Toronto.ipynb", "Segmenting & Clustering Neighborhoods in Toronto p2.ipynb " and
 "Segmenting & Clustering Neighborhoods in Toronto P3.ipynb" notebooks contain the Python code for scraping data from Wikipedia, creating data frames, "One Hot encoding" the data, training and testing a K-Means model, segmenting and clustering the results as well as plotting them on a map.
 
-The battle of the Neighborhoods is the final project and required us to come up with an idea to leverage the Foursquare location data to explore or compare neighborhoods or cities of our choice or to come up with a problem that could use the Foursquare location data to solve. The battle of the Neighborhoods files contain the final project files for week 4 and week 5 as follows:
+The battle of the Neighborhoods is the final project and requiring us to come up with an idea to leverage the Foursquare location data to explore or compare neighborhoods or cities of our choice or to come up with a problem that could use the Foursquare location data to solve. The battle of the Neighborhoods files contain the final project files for week 4 and week 5 as follows:
 
 The "Battle of the Neighborhoods.pdf" file contains a description of the problem and a discussion of the background and a description of the data and how it will be used to solve the problem.
 
