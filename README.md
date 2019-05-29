@@ -16,3 +16,5 @@ The "Battle of the Neighborhoods.pdf" file contains a description of the problem
 The "Battle of the Neighborhoods.ipynb" notebook contains the Python coding to solve the problem.
 
 The "Battle of the Neighborhoods report.pdf" file contains an introduction discussing the business problem and who would be interested in this project; data where to describe the data that will be used to solve the problem and the source of the data; a methodology section which represents the main component of the report where discussing and describing any exploratory data analysis that done, any inferential statistical testing that performed, and what machine learnings were used and why; results section discussing the results; discussion section where discussing any observations noted and any recommendations based on the results; and a conclusion section where concluding the report.
+
+The "Battle of the Neighborhoods presentation.pdf" file contains a presentation of the project.
